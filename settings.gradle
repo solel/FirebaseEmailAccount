@@ -1,0 +1,2 @@
+rootProject.name = "FirebaseEmailAccount"
+include ':app'
